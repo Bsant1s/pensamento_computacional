@@ -5,3 +5,4 @@ Após a estruturação da sequência,  os leds vermelhos acendem para sinalizar 
 ![imagem do circuito](MONTAGEM231555.png)
 ![imagem do codigo](CODIGOP232004.png)
 ![imagem do codigo](CODIGOS232255.png)
+![imagem do codigo](CODIGOT.223913.png)
