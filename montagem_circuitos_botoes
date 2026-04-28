@@ -1,0 +1,2 @@
+Inicialmente é montado uma estrutura com 1 arduino, 1 placa de ensaio, 2 servo motores, 4 botões, 6 leds e 6 resistores.
+Em seguida, foram criadas as variáveis ("botaoesquerdo", "botoadireito", "botaofechar", "botaodoislados")
