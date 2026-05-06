@@ -10,3 +10,5 @@ Se dois botões forem pressionados ao mesmo tempo, o LED não deve fazer mistura
 
 4 - Estruturas do if:
 A estrutura de if será utilizada para determinar qual cor cada botão deve acionar, se o primeiro botão for pressionado, a luz verde acenderá indicando “operação normal”. Se o segundo botão for pressionado, a luz amarela acenderá indicando “modo de atenção”. Se o terceiro botão for pressionado,a luz vermelha acenderá indicando “modo crítico”. Por fim, quando o botão de desligamento for pressionado, o LED voltará ao seu estado inicial.
+
+!(imagem do circuito)[
